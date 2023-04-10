@@ -14,7 +14,7 @@ baseurl: "/neumorphism"
 username: Go Raiding
 # typing_text: This will be typed before 'fill in the survey, scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: We like data, we love algorithms.
+typing_text: We like data, we love even more algorithms.
 # email: Your E-Mail address for the email button.
 # email: 
 # For every social button you want to display, set your username or userid
@@ -23,8 +23,8 @@ typing_text: We like data, we love algorithms.
 # github_username: longpdo
 # codepen_username: exampleUser
 # dev_username: exampleUser
-linkedin_username: https://www.linkedin.com/company/generatedart/
-twitter_username: @GeneratedArt
+# linkedin_username: https://www.linkedin.com/company/generatedart/
+# twitter_username: @GeneratedArt
 
 # ABOUT ME SECTION
 # show_aboutme_card:
