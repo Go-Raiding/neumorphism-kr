@@ -910,3 +910,50 @@ a {
     bottom: 0;
   }
 }
+
+/* Drop-down menu */
+
+.menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+.menu-item {
+  display: inline-block;
+}
+
+.menu-item a {
+  display: block;
+  padding: 8px 12px;
+  text-decoration: none;
+}
+
+.sub-menu {
+  display: none;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  min-width: 150px;
+  background-color: #ffffff;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.sub-menu a {
+  display: block;
+  padding: 8px 12px;
+  text-decoration: none;
+}
+
+.sub-menu a:hover {
+  background-color: #f0f0f0;
+}
+
+.menu-item:hover .sub-menu {
+  display: block;
+}
+
