@@ -14,7 +14,7 @@ baseurl: "https://goraiding.com"
 username: Go Raiding
 # typing_text: This will be typed before 'fill in the survey, scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: data helps us understand, but it's the stories behind the numbers that truly captivate us.
+typing_text: data helps us understand, but it's the stories that truly captivate us.
 # email: Your E-Mail address for the email button.
 # email: 
 # For every social button you want to display, set your username or userid
