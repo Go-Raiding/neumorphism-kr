@@ -4,7 +4,7 @@
 # title: This will be displayed as the website's name in your browser tab.
 title: Go Raiding
 # description: This will be meta HTML tag content. This can be ignored.
-description: Remote raid nerf customer surveys and data visualisation.
+description: 원격 공격 조절 조사 및 데이터 시각화
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: "https://goraiding.com"
@@ -14,7 +14,7 @@ baseurl: "https://goraiding.com"
 username: Go Raiding
 # typing_text: This will be typed before 'fill in the survey, scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: data helps us understand, stories truly captivate us.
+typing_text: 자료는 우리가 이해하는 데 도움이 되지만, 이야기는 우리를 정말로 사로잡습니다.
 # email: Your E-Mail address for the email button.
 # email: 
 # For every social button you want to display, set your username or userid
@@ -32,9 +32,9 @@ twitter_username: generatedart
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: Why is the survey important?
+about_me_title: 왜 설문조사가 중요한가요?
 # about_me_description: This will be displayed under the title.
-about_me_description: The survey is of great importance as it addresses the consequences of Niantic Labs implementing remote raid limitations and price increases, which can effectively exclude a significant portion of the community from participating in raids. Moreover, Niantic Labs' encouragement for players to engage in in-person raids is likely to result in some players using cars to travel between raids. By collecting data through this survey and presenting it in the data visualization below, awareness can be raised regarding the impact of Niantic Labs' decision on inclusiveness, social impact, diversity, and carbon emissions. This information has the potential to guide future decisions, address concerns raised by the community, and provide relevant customer intelligence for media companies and investors.
+about_me_description: 이 조사는 Niantic Labs가 원격 공격 제한 및 가격 인상을 시행함으로써 커뮤니티의 상당한 부분이 공격에 참여하지 못하게 될 수 있는 결과를 다루기 때문에 매우 중요합니다. 게다가, Niantic Labs는 플레이어들이 직접 공격에 참여하도록 격려하고 있는데, 이로 인해 일부 플레이어들이 공격 사이를 이동하기 위해 자동차를 사용할 가능성이 있습니다. 이 조사를 통해 데이터를 수집하고 아래의 데이터 시각화를 통해 제시함으로써, Niantic Labs의 결정이 포괄성, 사회적 영향, 다양성, 탄소 배출에 미치는 영향에 대한 인식을 높일 수 있습니다. 이 정보는 미래의 결정을 안내할 가능성이 있으며, 커뮤니티가 제기한 우려를 해결하고, 미디어 회사 및 투자자를 위한 관련 고객 지능을 제공할 수 있습니다.
 
 
 # SKILLS SECTION
@@ -43,7 +43,7 @@ about_me_description: The survey is of great importance as it addresses the cons
 # > setting this to false, will omit the Skills section
 show_skills_card: true
 # about_me_title: The will be displayed as the title in the Skills section
-skills_title: Survey results
+skills_title: 조사 결과
 
 # TIMELINE SECTION
 # show_timeline_card:
@@ -51,7 +51,7 @@ skills_title: Survey results
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Testimonials
+timeline_title: 감사의 말씀, 증언, 후기
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
 cv_download_link: https://example.com/
@@ -66,7 +66,7 @@ show_projects_card: true
 # > setting this to false, will omit your listed projects
 show_projects: true
 # projects_title: The will be displayed as the title of your projects
-projects_title: Methodology
+projects_title: 방법론, 연구 방법
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
@@ -80,9 +80,9 @@ os_projects_title: Open Source Projects
 # > setting this to false, will omit the Contact section
 show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
-contact_title: To support us
+contact_title: 저희를 지원하기 위해서
 # contact_description: This will be displayed under the title.
-contact_description: follow our main project <a href="http://generatedart.com">GeneratedArt</a> on social media, which features algorithmic artists.
+contact_description: 알고리즘 예술가들을 소개하는 저희 주요 프로젝트 <a href="http://generatedart.com">GeneratedArt</a>를 소셜 미디어에서 팔로우해주세요.
 
 # GITHUB-METADATA
 # Set this to your forked repository
