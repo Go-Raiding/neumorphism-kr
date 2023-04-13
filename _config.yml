@@ -7,7 +7,7 @@ title: Go Raiding
 description: 원격 공격 조절 조사 및 데이터 시각화
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "https://goraiding.com"
+baseurl: "https://kr.goraiding.com"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
